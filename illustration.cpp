@@ -34,3 +34,13 @@ int main()                                           //Line 4
 
     return 0;                                        //Line 16
 }                                                    //Line 17
+/*
+Line 9: firstNum = 18
+Line 10: Enter an integer: 9
+
+Line 13: secondNum = 9
+Line 15: The new value of firstNum = 48
+
+
+
+*/
