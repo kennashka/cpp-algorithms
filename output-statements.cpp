@@ -25,4 +25,18 @@ int main()                              //Line 3
     cout << b << endl;                  //Line 19
     
     return 0;                           //Line 20
-}                                       //Line 21
+} 
+
+/*
+
+7
+1.5
+Hello there.
+7
+8
+3 + 5 **
+20
+a
+65
+78
+*/
