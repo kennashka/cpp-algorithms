@@ -24,3 +24,11 @@ int main()
     return 0;
 }
 
+/*
+
+Enter total inches and press Enter: 14
+
+14 inch(es) = 1 feet (foot) and 2 inch(es)
+
+
+*/
