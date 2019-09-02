@@ -43,3 +43,13 @@ int main()
 
     return 0;
 }
+
+/*
+Enter two integers, one for feet and one for inches: 1 2
+
+The numbers you entered are 1 for feet and 2 for inches.
+The total number of inches = 14
+The number of centimeters = 35.56
+
+
+*/
