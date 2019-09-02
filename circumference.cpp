@@ -1,28 +1,28 @@
+#include <iostream>
+    using namespace std; 
 
-#include <iostream> 
-{
-    int main()
+int main() {
 
-    cout << "Enter the radius: ";
-    cin >> radius;
-    cout << endl;
 
     double radius; 
     double area;
 
-    using namespace std; 
+    const double PI = 3.14;
 
-    return 0;
+    double circumference;
+
+  cout << "Enter the radius: ";
+    cin >> radius;
+    cout << endl;
+   area = PI * radius * radius;
 
     cout << "Area = " << area << endl;
 
-    area = PI * radius * radius;
-
+ 
     circumference = 2 * PI * radius;
         
     cout << "Circumference = " << circumference << endl;
 
-    const double PI = 3.14;
 
-    double circumference;
+        return 0;
 }
