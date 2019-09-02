@@ -30,3 +30,14 @@ int main()
     
     return 0;
 }
+
+/*
+static_cast<int>(7.9) = 7
+static_cast<int>(3.3) = 3
+static_cast<double>(25) = 25
+static_cast<double>(5 + 3) = 8
+static_cast<double>(15) / 2 = 7.5
+static_cast<double>(15 / 2) = 7
+static_cast<int>(7.8 + static_cast<double>(15) / 2) = 15
+static_cast<int>(7.8 + static_cast<double>(15 / 2)) = 14
+*/
