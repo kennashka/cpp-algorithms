@@ -11,3 +11,10 @@ int main()
     
     return 0;
 }
+/*
+The newline escape sequence is \n
+The tab character is represented as '\t'
+The tab character is represented as '\t'
+The string "Sunny" contains five characters.
+
+*/
