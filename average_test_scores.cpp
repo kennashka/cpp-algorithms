@@ -1,5 +1,5 @@
 //************************************************************
-// Author: D.S. Malik  
+// 
 //
 // Program to calculate the average test score.
 // Given a student's name and five test scores, this program
